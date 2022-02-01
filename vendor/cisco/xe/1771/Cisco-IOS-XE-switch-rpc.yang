@@ -71,7 +71,7 @@ module Cisco-IOS-XE-switch-rpc {
           }
         }
         case stack-case {
-          container statck {
+          container stack {
             leaf port {
               description
                 "<1-2>  Stack port number to enable/disable";
